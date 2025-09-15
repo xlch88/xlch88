@@ -21,5 +21,5 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/xlch88/xlch88/refs/heads/master/assets/img/avatar_full_1807415284115898690.jpg" width="300" />
   <br/>
-  作者&来源：<a href="https://x.com/aosky9077/status/1807415284115898690/photo/3">@aosky9077</a>
+  作者&来源：<a href="https://x.com/aosky9077/status/1807415284115898690/photo/3" _target="blank">@aosky9077</a>
 </div>
